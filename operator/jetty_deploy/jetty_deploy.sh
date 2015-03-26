@@ -49,7 +49,7 @@ PROGRAM=`basename $0`
 VERSION="1.0.0"
 
 # Nexus configurations.
-NEXUS_SERVER="http://inner.no-ppt.com:8081/nexus/content/repositories/releases"
+NEXUS_SERVER="http://dev.noppt.cn:8081/nexus/content/repositories/releases"
 MAVEN_METADATA_FILE="maven-metadata.xml"
 
 WORKING_DIR="./"                                # TODO: Modify this before used in production environment.
